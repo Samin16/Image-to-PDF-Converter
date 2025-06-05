@@ -26,6 +26,7 @@ A simple and beautiful desktop application to convert multiple images into a sin
 ## 🖥️ How to Run
 
 For easier use, download gui.exe from dist folder and run it.
+Link : https://github.com/Samin16/Image-to-PDF-Converter/blob/main/dist/gui.exe
 
 Or,
 
